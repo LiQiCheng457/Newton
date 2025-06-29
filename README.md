@@ -50,3 +50,7 @@ By integrating formulas, visuals, and interactive controls, the interface offers
 ### 安装命令
 ```bash
 pip install PyQt5==5.15.9 matplotlib==3.7.1 numpy==1.24.3
+
+---
+
+Simulation and Analysis of Newton's Rings Interference Phenomenon Based on PyQt5 and Matplotlib，研究成果真正审稿中
