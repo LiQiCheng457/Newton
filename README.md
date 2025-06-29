@@ -36,6 +36,8 @@ Three functional buttons are provided:
 
 By integrating formulas, visuals, and interactive controls, the interface offers a hands-on exploration of Newton’s rings interference, ideal for optics education and experiment preparation.  
 
+Simulation and Analysis of Newton's Rings Interference Phenomenon Based on PyQt5 and Matplotlib，研究成果真正审稿中
+
 ---  
 
 ### Third-Party Library Requirements (Python 3.9)
@@ -50,5 +52,3 @@ By integrating formulas, visuals, and interactive controls, the interface offers
 ### Installation Command
 ```bash
 pip install PyQt5==5.15.9 matplotlib==3.7.1 numpy==1.24.3
-<!-- 代码块结束 -->
-Simulation and Analysis of Newton's Rings Interference Phenomenon Based on PyQt5 and Matplotlib，研究成果真正审稿中
