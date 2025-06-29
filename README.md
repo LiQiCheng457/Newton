@@ -38,19 +38,17 @@ By integrating formulas, visuals, and interactive controls, the interface offers
 
 ---  
 
-### **第三方库需求 (Python 3.9)**
+### Third-Party Library Requirements (Python 3.9)
 
-### 核心依赖
-| 库名称       | 版本要求  | 兼容说明                  |
-|--------------|-----------|--------------------------|
-| PyQt5        | 5.15.9    | 完全兼容Python 3.9        |
-| matplotlib   | 3.7.1     | 需配合numpy>=1.21        |
-| numpy        | 1.24.3    | 官方支持Python 3.9的最新版 |
+### Core Dependencies
+| Library       | Version Requirement | Compatibility Notes         |
+|---------------|---------------------|-----------------------------|
+| PyQt5         | 5.15.9              | Fully compatible with Python 3.9 |
+| matplotlib    | 3.7.1               | Requires numpy>=1.21        |
+| numpy         | 1.24.3              | Latest stable version supporting Python 3.9 |
 
-### 安装命令
+### Installation Command
 ```bash
 pip install PyQt5==5.15.9 matplotlib==3.7.1 numpy==1.24.3
-
----
 
 Simulation and Analysis of Newton's Rings Interference Phenomenon Based on PyQt5 and Matplotlib，研究成果真正审稿中
